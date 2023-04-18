@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+replace ur openai api key in lib/main.dart 73lines 'Authorization': 'Bearer  $ur apikey ' just replace"$ur apikey"!!!!!
